@@ -61,5 +61,11 @@ plt.legend()
 plt.show()
 The green and red dots represent the two classes, and the blue line represents the decision boundary separating them.
 ```
+## After each epoch
+<div class="carousel">
+  <img src="/results/result_0-ep.png" alt="Image 1">
+  <img src="/results/result_1-ep.png" alt="Image 2">
+  <img src="/results/result_2-ep.png" alt="Image 3">
+</div>
 # Conclusion
 The perceptron algorithm is a simple yet powerful algorithm for binary classification. It can be used as a building block for more complex algorithms and neural networks. The code we have implemented can be used as a starting point for further experimentation and learning.
