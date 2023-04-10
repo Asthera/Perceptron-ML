@@ -62,6 +62,7 @@ plt.show()
 The green and red dots represent the two classes, and the blue line represents the decision boundary separating them.
 ```
 ## After each epoch
+<style>
 .carousel {
   overflow: hidden;
   white-space: nowrap;
@@ -81,7 +82,7 @@ The green and red dots represent the two classes, and the blue line represents t
 .carousel:hover img:not(:hover) {
   transform: translateX(-200%);
 }
-
+</style>
 <div class="carousel">
   <img src="/results/result_0-ep.png" alt="Image 1">
   <img src="/results/result_1-ep.png" alt="Image 2">
