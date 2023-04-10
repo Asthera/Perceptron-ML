@@ -64,7 +64,7 @@ The green and red dots represent the two classes, and the blue line represents t
 ## After each epoch
 
 <div style="overflow: hidden;white-space: nowrap;">
-  <img src="/results/result_0-ep.png" alt="Image 1" style="height=300;weight=300;>
+  <img src="/results/result_0-ep.png" alt="Image 1" style="height=300;weight=300;">
   <img src="/results/result_1-ep.png" alt="Image 2">
   <img src="/results/result_2-ep.png" alt="Image 3">
   <img src="/results/result_3-ep.png" alt="Image 3">
