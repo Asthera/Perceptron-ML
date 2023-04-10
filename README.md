@@ -59,12 +59,13 @@ plt.scatter(X[:,0][y==0], X[:,1][y==0], color='green', label='0')  # plot data p
 plt.scatter(X[:,0][y==1], X[:,1][y==1], color='red', label='1')    # plot data points for class 1
 plt.legend()
 plt.show()
-The green and red dots represent the two classes, and the blue line represents the decision boundary separating them.
+# The green and red dots represent the two classes, 
+and the blue line represents the decision boundary separating them.
 ```
 ## After each epoch
 
 <div style="overflow: hidden;white-space: nowrap;">
-  <img src="/results/result_0-ep.png" alt="Image 1" style="height=300;weight=300;">
+  <img src="/results/result_0-ep.png" alt="Image 1">
   <img src="/results/result_1-ep.png" alt="Image 2">
   <img src="/results/result_2-ep.png" alt="Image 3">
   <img src="/results/result_3-ep.png" alt="Image 3">
