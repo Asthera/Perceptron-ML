@@ -60,7 +60,7 @@ plt.scatter(X[:,0][y==1], X[:,1][y==1], color='red', label='1')    # plot data p
 plt.legend()
 plt.show()
 # The green and red dots represent the two classes, 
-and the blue line represents the decision boundary separating them.
+# and the blue line represents the decision boundary separating them.
 ```
 ## After each epoch
 
